@@ -1,0 +1,10 @@
+Metadata-Version: 2.4
+Name: bingie
+Version: 0.1
+Requires-Dist: fastapi
+Requires-Dist: uvicorn
+Requires-Dist: pandas
+Requires-Dist: scikit-learn
+Requires-Dist: fuzzywuzzy
+Requires-Dist: python-Levenshtein
+Dynamic: requires-dist

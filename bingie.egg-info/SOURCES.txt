@@ -1,0 +1,8 @@
+README.md
+setup.py
+bingie.egg-info/PKG-INFO
+bingie.egg-info/SOURCES.txt
+bingie.egg-info/dependency_links.txt
+bingie.egg-info/requires.txt
+bingie.egg-info/top_level.txt
+tests/test_api.py
